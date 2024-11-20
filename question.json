@@ -1,0 +1,69 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "A balance of 132 needs to be written in words. How should Liam write it?",
+      "options": [
+          "One hundred thirty-two",
+          "One hundred fifty-seven",
+          "One hundred fifty-two",
+          "One hundred thirty-seven"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q2",
+      "question": "Another balance is 119. How will Liam write it in words?",
+      "options": [
+          "One hundred ninety-one",
+          "Two hundred nineteen",
+          "One hundred nineteen",
+          "One hundred twenty-nine"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q3",
+      "question": "A customer’s transaction amount is 106. How should Liam write it in words?",
+      "options": [
+          "One hundred sixty",
+          "One hundred three",
+          "One hundred six",
+          "Four hundred six"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q4",
+      "question": "Liam reviews a loan statement showing 804. How will he write this number in words?",
+      "options": [
+          "Eight hundred four",
+          "Eight hundred one",
+          "Two hundred four",
+          "One hundred four"
+      ],
+      "correct": 0
+  },
+  {
+    "questionNo": "Q5",
+    "question": "A balance of 343 appears in a report. How will Liam write this number in words?",
+    "options": [
+        "Five hundred forty-three",
+        "Three hundred forty-three",
+        "Three hundred forty-eight",
+        "Three hundred forty-six"
+    ],
+    "correct": 1
+}
+,
+  {
+      "questionNo": "Q6",
+      "question": "Finally, a loan amount of 799 needs to be written in words. How should Liam write it?",
+      "options": [
+          "Three hundred ninety-four",
+          "Seven hundred ninety-nine",
+          "Seven hundred ninety-four",
+          "Three hundred ninety-nine"
+      ],
+      "correct": 1
+  }
+]
